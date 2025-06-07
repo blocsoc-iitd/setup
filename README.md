@@ -3,6 +3,7 @@
 Welcome! This guide is for anyone new to Web3 development who wants to set up their development environment on a **Windows PC** using **WSL2 (Windows Subsystem for Linux 2)** and **Ubuntu**.
 
 ---
+> For macOS [click here](./macOS.md)
 
 ## 🧠 What is WSL & Why Use It?
 
